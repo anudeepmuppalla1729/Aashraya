@@ -25,7 +25,7 @@ Aashraya offers a variety of features to cater to the unique needs of senior cit
 
 ![Screenshot 1](./client/assets/i1.png)
 
-![Screenshot 2](./client/assets/2.png)
+![Screenshot 2](./client/assets/i2.png)
 
 ![Screenshot 3](./client/assets/i3.png)
 
