@@ -25,7 +25,7 @@ const Home = () => {
       <div className="heading-tab">
       
       
-        <h1>Old Care</h1>
+        <h1>Aashraya</h1>
       </div>
         <Routes>
         <Route path="/" element={<LandingPage/>} />

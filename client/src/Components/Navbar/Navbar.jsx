@@ -34,7 +34,7 @@ const Navbar = () => {
     <div className="menu">
  
     <FaBars className="hamburger-icon"    onClick={toggleNav} />
-   <h1>OldCare Connect</h1>  
+   <h1>Aashraya</h1>  
   </div>
     <div className={`sidenav-container  ${isNavOpen ? 'minimized' : 'expanded'}`}>
    

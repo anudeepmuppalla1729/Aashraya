@@ -18,7 +18,7 @@ const LandingPage = () => {
     <div className="landing-page">
     <br></br>
     
-      <h1>Welcome to OldCare Connect</h1>
+      <h1>Welcome to Aashraya</h1>
     
       <p>Your Elderly Assistance Platform</p>
 
